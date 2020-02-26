@@ -1,0 +1,31 @@
+### JAVA ###
+############
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+### GRADLE ###
+##############
+.gradle
+/build/
+/bin/
+
+# Gradle GUI config #
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file #
+!gradle-wrapper.jar
+
+# Cache of project #
+.gradletasknamecache
+
+
+### ECLIPSE ###
+###############
+*.classpath
+*.project
+*.settings
+/bin/
